@@ -1,0 +1,12 @@
+# header
+uint8 command
+string name
+# body
+float32 num
+string text
+---
+# header
+bool status
+# body
+float32 num
+string text

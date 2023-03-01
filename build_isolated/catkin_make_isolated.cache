@@ -1,0 +1,2 @@
+client_demo1:object_service
+-G Unix Makefiles -DCATKIN_DEVEL_PREFIX=/home/sjtu/code/robomaster/ObjectService_ws/devel_isolated -DCMAKE_INSTALL_PREFIX=/home/sjtu/code/robomaster/ObjectService_ws/install_isolated

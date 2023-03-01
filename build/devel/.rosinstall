@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/sjtu/code/robomaster/ObjectService_ws/build/devel/setup.sh

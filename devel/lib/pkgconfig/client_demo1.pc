@@ -1,0 +1,8 @@
+prefix=/home/sjtu/code/robomaster/ObjectService_ws/devel
+
+Name: client_demo1
+Description: Description of client_demo1
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

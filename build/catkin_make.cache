@@ -1,0 +1,2 @@
+client_demo1:client_demo2:object_service
+-DCATKIN_WHITELIST_PACKAGES=object_service -DCATKIN_DEVEL_PREFIX=/home/sjtu/code/robomaster/ObjectService_ws/devel -DCMAKE_INSTALL_PREFIX=/home/sjtu/code/robomaster/ObjectService_ws/install -G Unix Makefiles

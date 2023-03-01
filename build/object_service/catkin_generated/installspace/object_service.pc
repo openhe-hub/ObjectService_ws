@@ -1,0 +1,8 @@
+prefix=/home/sjtu/code/robomaster/ObjectService_ws/install
+
+Name: object_service
+Description: Description of object_service
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
